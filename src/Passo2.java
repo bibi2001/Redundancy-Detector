@@ -46,7 +46,6 @@ class Passo2{
 	}
 	
 	void detetor(){
-	
 		for(int i=0; i<size_array-1; i++)
 			for(int j=i+1; j<size_array-1;j++)
 				if(array[i]==array[j] && array[i]!=' ')
