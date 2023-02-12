@@ -106,7 +106,7 @@ class Extra2 { //algoritmo de for�a bruta
             test.detetor();
     		
         }
-        
+      
         catch (IOException e) {
             System.out.println("Oops");
         }
