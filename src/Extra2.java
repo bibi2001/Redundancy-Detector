@@ -1,9 +1,5 @@
 import java.io.*;
 
-//Bibiana Farinha 98416
-//Nicole Nunes 98686
-//LEI 1� Ano
-
 class Extra2 { //algoritmo de for�a bruta 
 
 	int size_array1; //tamanho do array do primeiro argumento
