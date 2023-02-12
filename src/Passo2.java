@@ -1,9 +1,5 @@
 import java.io.*;
 
-//Bibiana Farinha 98416
-//Nicole Nunes 98686
-//LEI 1� Ano
-
 class Passo2{ 
 	int size_array;
 	int size_key;
